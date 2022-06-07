@@ -4,7 +4,7 @@
  *
  * Return: Always 0 (Success)
  */
-int main(putchar)
+int _putchar(void)
 {
 	char *sh = "_putchar";
 
