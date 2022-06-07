@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#include "putchar.c"
-=======
-#include "putchar.h"
->>>>>>> 03475ddb9b6b249c63817a819dd68a067aa61943
+#include "main.h"
 
 /**
   * main - Entry point
